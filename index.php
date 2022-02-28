@@ -4,7 +4,7 @@
     <!-- stop stalking the site @Lewis & @Hondo -->
     <meta charset="UTF-8">
     <title>Exposing Lewis/YourWRLD/SilentCloud/Bailey</title>
-    <meta name="keywords" content="lewisfked, lewis pedo, retrimo, brickistic, voixed, bricktoria, bloxpatched, yourwrld, silentcloud, bloxcity patched, vernium, lewis retrimo">
+    <meta name="keywords" content="lewisfked, lewis pedo, retrimo, brickistic, voixed, bricktoria, bloxpatched, yourwrld, silentcloud">
     <meta name="description" content="An entire website dedicated to expose Lewis/YourWRLD/SilentCloud. His disturbing behavior cannot continue on this way. This website will be updated frequently to include his new alternative accounts.">
     <meta name="author" content="The Sandbox Community">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,7 +22,7 @@
       <li><a href="#contribute">Contribute</a></li>
     </ul>
     <div class="notice">
-      anyone who still supports lewis/yourwrld/bailey/silentcloud is a fucking retard
+      yo pedo mfer. How about u email me at <a href="mailto:fucklewis@unitorium.endl.site">fucklewis@unitorium.endl.site</a> instead of stalking the site?
       </div>
     <div class="subhead">
       <h1 id="expose" class="center">Exposing Lewis</h1>
@@ -87,7 +87,7 @@
       <img src="https://cdn.discordapp.com/attachments/794577234332483644/947281300627288104/unknown.png">
       <p>Now, after all you just witnessed, after all the evidence and proof, you think we are in the wrong because of 1 small detail I will be disclosing, well ur pretty retarded, let me show you, the 1 excuse that was keeping him alive up to this point, the excuse that will now be worthless, it is.....</p>
       <b>I am 13!</b>
-      <p>But now, take a look at this! Oh no! He is fucking contradicting himself yet again!</p>
+      <p id="clown">But now, take a look at this! Oh no! He is fucking contradicting himself yet again!</p>
       <img src="https://cdn.discordapp.com/attachments/947283257727275108/947585040806727700/bfvb.PNG">
       <img src="https://cdn.discordapp.com/attachments/947283257727275108/947585041003843594/xc.PNG">
       <p>These messages were said in the Bopimo.com discord server, a server his Lewis account is still in, you can clearly see he is implying that he is <b>17</b> and NOT <b>13</b></p>
@@ -100,6 +100,10 @@
       <p>Oh wow, would you look at that! I'm gonna get exposed by the pedophile himself! Already a great start when you need to use a framework and Lorem Ipsum placeholder text...</p>
       <img style="width:900px;" src="https://cdn.discordapp.com/attachments/942089490443407400/947606887237566484/unknown.png">
       <p>If he seriously thinks he's going to get away from this by lying to his players and making fun of it, well you can consider him as the entire entertainement industry right in front of you (PS: stop stalking the site @Hondo @Lewis)</p>
+      <p>UPDATE 2: AWWW SO SAD, HES NOW BURNT OUT BECAUSE HE CANT FIGHT BACK AT THE TRUTH 😭😭😭</p>
+      <img src="https://cdn.discordapp.com/attachments/947908495376805918/947916208794128434/image_2022-02-28_130032.png">
+      <p>That announcement IS pathetic. Trying to gain sympathy towards ur fans & players by lying that I am a "sad person" and that "I am looking for drama" is fucking obsene and pathetic. Why can't he just admit so that this drama ends? And that is the thing. This ENTIRE deal could have stopped when I first exposed him, and this website would have never existed and everyone would be happy. But no! He is incapable of moving on, so he pitifully makes alt accounts to then make sites, and once he gets exposed, he makes a new account/identity. He is really on par with Icseon/Energycell.</p>
+      <p>Oh, and that VC excuse to confirm his age? Bullshit. Wanna know why it is bullshit? Well, take it from Mr. Lewis <a href="#clown">himself</a>. Not matter if you spend 500 hours in VC, chatting, speaking, signing, or whatever, it won't alter the fact that you are <b style="font-size:32px;">17</b></p>
       <p>Now, onto the conclusion.</p>
     </div>
     <div class="card card-center">
