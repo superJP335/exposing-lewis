@@ -4,7 +4,7 @@
     <!-- stop stalking the site @Lewis & @Hondo -->
     <meta charset="UTF-8">
     <title>Exposing Lewis/YourWRLD/SilentCloud/Bailey</title>
-    <meta name="keywords" content="lewisfked, lewis pedo, retrimo, brickistic, voixed, bricktoria, bloxpatched, yourwrld, silentcloud">
+    <meta name="keywords" content="lewisfked, lewis pedo, retrimo, brickistic, voixed, bricktoria, bloxpatched, yourwrld, silentcloud, bloxcity patched, vernium, lewis retrimo">
     <meta name="description" content="An entire website dedicated to expose Lewis/YourWRLD/SilentCloud. His disturbing behavior cannot continue on this way. This website will be updated frequently to include his new alternative accounts.">
     <meta name="author" content="The Sandbox Community">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
