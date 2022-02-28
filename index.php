@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- stop stalking the site @Lewis & @Hondo -->
     <meta charset="UTF-8">
     <title>Exposing Lewis/YourWRLD/SilentCloud/Bailey</title>
     <meta name="keywords" content="lewisfked, lewis pedo, retrimo, brickistic, voixed, bricktoria, bloxpatched, yourwrld, silentcloud">
@@ -21,7 +22,7 @@
       <li><a href="#contribute">Contribute</a></li>
     </ul>
     <div class="notice">
-      i recommend that u have 2 eyes, a brain thats functional, and common sense before u read. if you dont, heres a vid describing you <a href="https://youtu.be/-iOzHoxsor4" target="_blank">here</a>
+      anyone who still supports lewis/yourwrld/bailey/silentcloud is a fucking retard
       </div>
     <div class="subhead">
       <h1 id="expose" class="center">Exposing Lewis</h1>
@@ -91,6 +92,14 @@
       <img src="https://cdn.discordapp.com/attachments/947283257727275108/947585041003843594/xc.PNG">
       <p>These messages were said in the Bopimo.com discord server, a server his Lewis account is still in, you can clearly see he is implying that he is <b>17</b> and NOT <b>13</b></p>
       <p>Incase ur too lazy to do the math, heres the solution: 11 (years he spent in the uk) + 4 (years he spent in spain) + 2 (years he spent in russia) = 17. So easy I didnt even need to use a calculator!</p>
+      <p>UPDATE: After the website dropped, it sadly didnt get the attention deserved, even when people pinged their members in their servers about him and this website to spread awareness (i highly thank those people btw). Despite all of the evidence/proof shown and gathered, Lewis denies all accusations, and keeps saying hes 13 (keep in mind i invalidated that excuse of his!). He is also brainwashing his members to go attack me or to devaluate my work. My goal is to give you the truth about his character and to make him leave the community to focus on himself. Some people even went as far as to say I stole code from W3Schools to make this site... with no proof whatsoever! Don't you love the SBC?</p>
+      <img src="https://cdn.discordapp.com/attachments/947908495376805918/947908519078821968/image_2022-02-28_122959.png">
+      <img src="https://cdn.discordapp.com/attachments/942089612170494043/947831021334847558/IMG_3006.png">
+      <img src="https://cdn.discordapp.com/attachments/942089612170494043/947831021771030548/IMG_3008.png">
+      <img src="https://cdn.discordapp.com/attachments/927590594472181781/947589335824355358/Screenshot_20220227-212121_Discord.jpg">
+      <p>Oh wow, would you look at that! I'm gonna get exposed by the pedophile himself! Already a great start when you need to use a framework and Lorem Ipsum placeholder text...</p>
+      <img style="width:900px;" src="https://cdn.discordapp.com/attachments/942089490443407400/947606887237566484/unknown.png">
+      <p>If he seriously thinks he's going to get away from this by lying to his players and making fun of it, well you can consider him as the entire entertainement industry right in front of you (PS: stop stalking the site @Hondo @Lewis)</p>
       <p>Now, onto the conclusion.</p>
     </div>
     <div class="card card-center">
@@ -98,7 +107,7 @@
       <p>So, my friends, we can now finally conclude that Lewis/YourWRLD/SilentCloud/Bailey is a pedophile and that YourWRLD/SilentCloud/Bailey is Lewis!</p>
       <p>The fact that he still has a platform and that he gets support and people who defend him and harass me because he manipulates others to believe the mountain of evidence is fake just blows my mind. The fact he is trying so hard to hide the truth and continues being on the SBC disgusts me. But whatever this pedophile does to stop the truth, I will counter, because the best thing in life is the truth.</p>
       <p>There are even retards like Hondo who think that I (superJP335) is Lewis. I think he forgot what was common sense, but i'll fill him in. If I was Lewis, this entire website would be like shooting myself in the foot, as it could destroy my entire credibility & trustworthiness. I don't understand why you believe this entire site is fake, maybe because you were brainwashed? Idk and idc, hondos a fucking failure anyways.</p>
-      <p>Like I said, this will be frequently updated, to include new evidence, his new alt accounts, and his new practises. The website will also not be taken down, unless something extremely major happens.</p>
+      <p>Like I said, this will be frequently updated, to include new evidence, his new alt accounts, and his new practises. The website will also not be taken down, unless something extremely major happens (or if lewis begs the EH admins to take it down, in that case, heres the <a href="https://github.com/superJP335/exposing-lewis/tree/master" target="_blank">source code of the site</a>).</p>
     </div>
     <div class="card card-center">
       <h2 id="contribute">Contribute</h2>
